@@ -1,0 +1,46 @@
+# Format: id|category|difficulty|question text|choiceA|choiceB|choiceC|choiceD|answer
+1|Geography|easy|What is the capital of France?|Berlin|Madrid|Paris|Rome|C
+2|Geography|easy|Which country has the largest land area?|Canada|USA|China|Russia|D
+3|Geography|medium|What is the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|B
+4|Geography|easy|On which continent is the Sahara Desert?|Asia|South America|Africa|Australia|C
+5|Geography|medium|What is the smallest country in the world by area?|Monaco|San Marino|Liechtenstein|Vatican City|D
+6|Math|easy|What is 2 + 2?|3|4|5|6|B
+7|Math|easy|What is the square root of 144?|10|11|12|13|C
+8|Math|medium|What is 15% of 200?|25|30|35|40|B
+9|Math|easy|What is Pi rounded to 2 decimal places?|3.12|3.14|3.16|3.18|B
+10|Math|medium|A triangle with angles 60-60-60 is called?|Scalene|Isoceles|Equilateral|Right|C
+11|Science|easy|What is the powerhouse of the cell?|Nucleus|Ribosome|Mitochondria|Golgi body|C
+12|Science|easy|What is the chemical symbol for water?|WA|H2O|HO2|W|B
+13|Science|medium|How many bones are in the adult human body?|196|200|206|212|C
+14|Science|easy|What planet is known as the Red Planet?|Venus|Jupiter|Saturn|Mars|D
+15|Science|hard|What is the speed of light in vacuum (approx)?|300000 km/s|150000 km/s|450000 km/s|600000 km/s|A
+16|Science|medium|What is the atomic number of Carbon?|4|6|8|12|B
+17|History|easy|In which year did World War II end?|1943|1944|1945|1946|C
+18|History|medium|Who was the first President of the United States?|John Adams|Thomas Jefferson|George Washington|Benjamin Franklin|C
+19|Technology|easy|What does CPU stand for?|Central Process Unit|Core Processing Unit|Central Processing Unit|Computer Processing Unit|C
+20|Technology|medium|What programming language was Java inspired by?|Python|C++|BASIC|Lisp|B
+21|Geography|medium|Which mountain is the highest in the world?|K2|Kangchenjunga|Mount Everest|Lhotse|C
+22|Geography|medium|Which ocean is the largest?|Atlantic|Indian|Arctic|Pacific|D
+23|Geography|hard|Which country has the most time zones (including overseas territories)?|USA|Russia|France|China|C
+24|Geography|hard|What is the capital of Australia?|Sydney|Melbourne|Canberra|Perth|C
+25|Geography|easy|Which line divides Earth into Northern and Southern Hemispheres?|Prime Meridian|Equator|Tropic of Cancer|International Date Line|B
+26|Geography|medium|Which desert is the largest hot desert in the world?|Gobi|Sahara|Kalahari|Arabian|B
+27|Math|medium|What is 7! (7 factorial)?|720|5040|40320|840|B
+28|Math|hard|What is the derivative of x^2 (with respect to x)?|x|2x|x^3|2|B
+29|Math|hard|What is the value of log10(1000)?|2|3|10|100|B
+30|Math|medium|What is 3/4 expressed as a decimal?|0.25|0.5|0.75|1.25|C
+31|Math|easy|How many degrees are in a right angle?|45|90|180|360|B
+32|Science|medium|What gas do plants primarily absorb for photosynthesis?|Oxygen|Nitrogen|Carbon dioxide|Helium|C
+33|Science|hard|DNA stands for what?|Deoxyribonucleic acid|Dinucleic acid|Deoxynitric acid|Ribonucleic acid|A
+34|Science|medium|What is the unit of electric current?|Volt|Watt|Ampere|Ohm|C
+35|Science|hard|Which particle has a negative charge?|Proton|Neutron|Electron|Photon|C
+36|Science|easy|What force pulls objects toward Earth?|Magnetism|Friction|Gravity|Electricity|C
+37|Science|medium|Which organ pumps blood through the body?|Lungs|Heart|Liver|Kidneys|B
+38|History|medium|The Renaissance began in which country?|France|Italy|Spain|England|B
+39|History|hard|The Battle of Hastings took place in which year?|1066|1215|1492|1776|A
+40|History|easy|Who was the first man to walk on the Moon?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Michael Collins|B
+41|History|medium|The Great Wall is located in which country?|India|China|Japan|Mongolia|B
+42|Technology|medium|What does RAM stand for?|Read Access Memory|Random Access Memory|Rapid Action Module|Real Address Machine|B
+43|Technology|hard|Which protocol is used to securely browse websites (encrypted HTTP)?|FTP|HTTP|SSH|HTTPS|D
+44|Technology|easy|Which device is used to move the cursor on a computer screen?|Scanner|Mouse|Printer|Speaker|B
+45|Technology|hard|In networking, what does DNS stand for?|Data Network Service|Domain Name System|Digital Number Storage|Dynamic Name Server|B

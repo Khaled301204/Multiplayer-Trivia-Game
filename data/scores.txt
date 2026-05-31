@@ -1,0 +1,8 @@
+# Format: username|gameMode|score|correctAnswers|totalQuestions|category|difficulty|timestamp
+khaled04|solo|30|3|5|Technology|easy|2026-03-16 00:46:27
+khaled04|solo|20|2|2|Geography|medium|2026-03-16 17:05:15
+khaled04|solo|80|8|10|Science|medium|2026-03-16 22:18:32
+mahmoud82|team|30|3|5|Science|easy|2026-03-17 06:31:11
+khaled04|team|0|0|5|Science|easy|2026-03-17 06:31:11
+khaled04|team|30|3|5|Science|easy|2026-03-17 06:44:02
+mahmoud82|team|30|3|5|Science|easy|2026-03-17 06:44:02

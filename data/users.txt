@@ -1,0 +1,7 @@
+# Format: name|username|password
+Alice Smith|alice|alice123
+Bob Jones|bob|bob123
+Charlie Brown|charlie|charlie123
+Diana Prince|diana|diana123
+Khaled Ahmed Kamal|khaled04|khaled123
+Mahmoud Hisham|mahmoud82|mahmoud123

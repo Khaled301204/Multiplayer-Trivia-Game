@@ -1,0 +1,12 @@
+# Trivia Game Configuration
+# Format: key=value  (lines starting with # are comments)
+
+questionDurationSeconds=15
+timerWarnings=10,5,3
+minPlayersPerTeam=1
+maxPlayersPerTeam=4
+maxConcurrentRooms=10
+defaultQuestionCount=5
+scorePerCorrectAnswer=10
+bonusScore=5
+bonusThresholdSeconds=5
